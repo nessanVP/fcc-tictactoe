@@ -1,0 +1,52 @@
+body {
+    background: black;
+    color: white;
+    margin: 2%;
+    font-family: Lucida Sans Typewriter, Lucida Console, monaco, Bitstream Vera Sans Mono, monospace;
+  }
+  
+  h1 {
+    font-size: 30px;
+  }
+  
+  table, td {
+      border: 5px solid white;
+  }
+  
+  table {
+    display: block;
+    margin: 2% auto;
+    width: 300px;
+  }
+  
+  .box {
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+  }
+  td {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 40px;
+  }
+  
+  .btn {
+    font-size: 2em;
+  }
+  
+  .btn-success {
+    display: inline-block;
+    margin: 2%%;
+    height: 50px;
+    width: 100px;
+  }
+  
+  .btn-primary {
+    display: block;
+    margin: 2% auto;
+    height: 75px;
+    width: 150px;
+  }
